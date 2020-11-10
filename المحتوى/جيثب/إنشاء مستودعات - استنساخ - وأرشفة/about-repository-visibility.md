@@ -40,3 +40,4 @@ All enterprise members have read permissions to the internal repository, but int
 
 If a user is removed from all organizations owned by the enterprise, that user's forks of internal repositories are removed automatically.
 {% endif %}
+
